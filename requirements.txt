@@ -1,5 +1,5 @@
-streamlit==1.39.0
-numpy==1.26.4
-Pillow==10.4.0
-matplotlib==3.9.2
-reportlab==4.2.5
+streamlit
+numpy
+Pillow
+matplotlib
+reportlab
